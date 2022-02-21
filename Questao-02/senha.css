@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Roboto', sans-serif;
+  src: url();
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  color: rgb(192, 47, 192);
+  font-size: 20px;
+  font-weight: bold;
+}
+input {
+  display: inline-block;
+  border-radius: 50px;
+  border-width: 3px;
+  border-right: 3px;
+
+  border-color: rgb(192, 47, 192);
+}
